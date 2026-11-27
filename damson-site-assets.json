@@ -2,7 +2,7 @@
   "name": "Damson Site Assets",
   "slug": "damson-site-assets",
   "version": "1.2.8",
-  "download_url": "https://github.com/matthewdavis97/damson-releases/releases/download/damson-site-assets-v1.2.8/damson-site-assets-1.2.8.zip",
+  "download_url": "https://matthewdavis97.github.io/damson-releases/damson-site-assets-1.2.8.zip",
   "homepage": "https://damsonwebsitedesign.co.uk/",
   "requires": "5.8",
   "tested": "6.8",
