@@ -1,18 +1,18 @@
 {
   "name": "Damson Website Design",
   "slug": "damson-website-design",
-  "version": "1.0.4",
-  "download_url": "https://matthewdavis97.github.io/damson-releases/damson-website-design-1.0.4.zip",
+  "version": "1.0.5",
+  "download_url": "https://matthewdavis97.github.io/damson-releases/damson-website-design-1.0.5.zip",
+  "details_url": "https://github.com/matthewdavis97/damson-releases/releases/tag/damson-website-design-v1.0.5",
   "homepage": "https://damsonwebsitedesign.co.uk/",
   "requires": "6.0",
   "tested": "6.8",
   "requires_php": "7.4",
-  "last_updated": "2026-11-27 05:24:45",
+  "last_updated": "2026-11-27 06:15:52",
   "author": "Damson Website Design",
   "author_homepage": "https://damsonwebsitedesign.co.uk/",
   "sections": {
     "description": "Front-end assets and theme files by Damson Website Design.",
-    "changelog": "* Updates no longer need a GitHub token or a wp-config.php change. The theme checks a public metadata file and shows \"Update available\" under Appearance > Themes. No design changes."
-  },
-  "details_url": "https://github.com/matthewdavis97/damson-releases/releases/tag/damson-website-design-v1.0.4"
+    "changelog": "* Per-site settings moved out of style.css. Colours, spacing, header height, line lengths, custom CSS and the admin bar toggle now live in Appearance > Damson Settings and are stored in the database, so theme updates no longer overwrite them. Saved values print as a :root block after the child stylesheet. If you changed colours in style.css on 1.0.4 or earlier, this one update replaces that file: re-enter the colours in Damson Settings afterwards. From 1.0.5 onwards updates keep every setting."
+  }
 }
