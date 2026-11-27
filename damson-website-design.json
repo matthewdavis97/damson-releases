@@ -13,5 +13,6 @@
   "sections": {
     "description": "Front-end assets and theme files by Damson Website Design.",
     "changelog": "* Updates no longer need a GitHub token or a wp-config.php change. The theme checks a public metadata file and shows \"Update available\" under Appearance > Themes. No design changes."
-  }
+  },
+  "details_url": "https://github.com/matthewdavis97/damson-releases/releases/tag/damson-website-design-v1.0.4"
 }
