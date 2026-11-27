@@ -1,0 +1,17 @@
+{
+  "name": "Damson Site Assets",
+  "slug": "damson-site-assets",
+  "version": "1.2.8",
+  "download_url": "https://github.com/matthewdavis97/damson-releases/releases/download/damson-site-assets-v1.2.8/damson-site-assets-1.2.8.zip",
+  "homepage": "https://damsonwebsitedesign.co.uk/",
+  "requires": "5.8",
+  "tested": "6.8",
+  "requires_php": "7.4",
+  "last_updated": "2026-11-27 05:24:41",
+  "author": "Damson Website Design",
+  "author_homepage": "https://damsonwebsitedesign.co.uk/",
+  "sections": {
+    "description": "Front-end assets and theme files by Damson Website Design.",
+    "changelog": "* Updates no longer need a GitHub token or a wp-config.php change. The plugin checks a public metadata file and shows \"Update available\" on the Plugins screen. No CSS or JS changes."
+  }
+}
